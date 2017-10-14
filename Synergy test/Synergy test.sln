@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Synergy test", "Synergy test.vcxproj", "{A422912B-ABC9-49CB-9FAB-225F3C69BC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Debug|x64.ActiveCfg = Debug|x64
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Debug|x64.Build.0 = Debug|x64
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Debug|x86.ActiveCfg = Debug|Win32
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Debug|x86.Build.0 = Debug|Win32
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Release|x64.ActiveCfg = Release|x64
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Release|x64.Build.0 = Release|x64
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Release|x86.ActiveCfg = Release|Win32
+		{A422912B-ABC9-49CB-9FAB-225F3C69BC73}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E97189C-0575-4401-8A2F-80B10E7968C9}
+	EndGlobalSection
+EndGlobal
